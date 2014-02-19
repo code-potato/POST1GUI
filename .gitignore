@@ -1,13 +1,24 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
+/POST/nbproject/private/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+# Generic Files #
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
